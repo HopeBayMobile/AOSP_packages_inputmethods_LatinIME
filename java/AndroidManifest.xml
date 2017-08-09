@@ -39,7 +39,6 @@
             android:icon="@drawable/ic_launcher_keyboard"
             android:supportsRtl="true"
             android:allowBackup="true"
-            android:defaultToDeviceProtectedStorage="true"
             android:directBootAware="true">
 
         <!-- Services -->
